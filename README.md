@@ -1,8 +1,8 @@
-# Hello, World! 👋
+# Hello, World! I'm Jason 👋
 
 ### **About me**
-- 👨‍🎓 I'm Jason, a 2nd year student at Georgia Tech
 - 👾 I'm interested in game development, including programming, game design, and art
+- 🎮 Some of my favorite games include Subnautica, Borderlands 2, Outlast, and The Binding of Isaac
 - 🌱 I'm currently working on improving my skills with Unity and C# through a variety of game projects
 
 ### **Tech Stack**
