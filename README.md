@@ -3,7 +3,7 @@
 ### **About me**
 - 👾 I'm interested in many aspects of game development - namely programming and gameplay design 
 - 🎮 Some of my favorite games include Subnautica, Borderlands 2, Outlast, and The Binding of Isaac
-- 🌱 I'm currently working on improving my skills with Unity and C#, and hope to expand my experience to Unreal and Godot
+- 🌱 I'm currently working on improving my skills with Unity and C#, and hope to expand my knowledge on Unreal and Godot as well
 
 ### **Tech Stack**
 - 💻 Lua | Python | Java | C# | C | HTML | CSS | Javascript
