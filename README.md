@@ -1,7 +1,7 @@
 # Hello, World! I'm Jason 👋
 
 ### **About me**
-- 👾 I'm interested in many aspects of game development - namely gameplay programming and design 
+- 👾 I'm interested in many aspects of game development - namely programming and gameplay design 
 - 🎮 Some of my favorite games include Subnautica, Borderlands 2, Outlast, and The Binding of Isaac
 - 🌱 I'm currently working on improving my skills with Unity and C#, and hope to expand my experience to Unreal and Godot
 
