@@ -1,15 +1,15 @@
 # Hello, World! I'm Jason 👋
 
 ### **About me**
-- 👾 I'm interested in game development, including programming, game design, and art
+- 👾 I'm interested in many aspects of game development - namely gameplay programming and design 
 - 🎮 Some of my favorite games include Subnautica, Borderlands 2, Outlast, and The Binding of Isaac
-- 🌱 I'm currently working on improving my skills with Unity and C# through a variety of game projects
+- 🌱 I'm currently working on improving my skills with Unity and C#, and hope to expand my experience to Unreal and Godot
 
 ### **Tech Stack**
-- 💻 Lua | Python | Java | C#
+- 💻 Lua | Python | Java | C# | C | HTML | CSS | Javascript
 - 🌐 HTML | CSS | Javascript
-- 🔧 IDLE | Visual Studio | Sublime Text | IntelliJ | Visual Studio Code
-- 🖥️ Unity
+- 🔧 IDLE | Visual Studio | Sublime Text | IntelliJ | Visual Studio Code | Git | Docker Desktop
+- 🖥️ Unity | React | Node.js
 
 ### **Connect With Me**
 
