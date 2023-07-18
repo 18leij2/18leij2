@@ -14,7 +14,9 @@
 ### **Connect With Me**
 
 <p>
-&nbsp; <a href="https://twitter.com/jlei48" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   
+&nbsp; <a href="https://jasonlei.ju.mp/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/-ADHqU46QZdK/certificate" width="50" /></a>
+&nbsp; <a href="https://jlei48.itch.io/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/sKrTtasqQDD3/itch-io" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/jasonleiqi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/jlei48" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   
 &nbsp; <a href="mailto:jasonleiqi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
