@@ -6,10 +6,10 @@
 - 🌱 I'm currently working on improving my skills with Unity and C#, and am planning to expand to Unreal and Godot
 
 ### **Tech Stack**
-- 💻 Lua | Python | Java | C# | C | HTML | CSS | Javascript
+- 💻 Lua | Python | Java | C# | C | HTML | CSS | Javascript | C++
 - 🌐 HTML | CSS | Javascript
-- 🔧 IDLE | Visual Studio | Sublime Text | IntelliJ | Visual Studio Code | Git | Docker Desktop
-- 🖥️ Unity | React | Node.js | Android Studio | Processing
+- 🔧 IDLE | Visual Studio | Sublime Text | IntelliJ | Visual Studio Code | Git | Docker Desktop | Blender
+- 🖥️ Unity | Unreal | React | Node.js | Android Studio | Processing
 
 ### **Connect With Me**
 
